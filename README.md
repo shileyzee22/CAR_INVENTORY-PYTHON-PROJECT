@@ -1,5 +1,14 @@
-# EXPLORATORY DATA ANALYSIS – CAR INVENTORY ANALYSIS PROJECT
+# CAR INVENTORY ANALYSIS PROJECT
 
+
+## Table of Content
+
+- [Project Overview](#project-overview)
+- [Results](#results)
+- [Recommendation](#recommendation)
+
+
+# CAR INVENTORY ANALYSIS
 The Car Inventory Analysis project is designed to explore and analyze key insights from a dataset containing details about various cars, including their make, model, color, mileage, price, and cost. By applying data analysis and visualization techniques using Pandas, Numpy, Matplotlib, and Seaborn, the project aims to uncover trends, relationships, and key patterns within the dataset.
 
 ### Objectives 
@@ -124,3 +133,14 @@ We recommend the following:
 
 7. Market Research Extension:
    - Regularly monitor customer preferences and competitor pricing to keep the inventory aligned with market demand.
+  
+
+### Limitations
+
+A limitation in data analysis reporting refers to any factor that restricts, weakens, or challenges the accuracy, scope, or generalizability of the analysis results.
+
+While the analysis provided key insights into car pricing and brand performance, limitations such as missing mileage data and lack of customer purchase history may have affected the completeness of the conclusions. Future analysis should aim to include these data points for a more comprehensive overview.”
+
+### References
+
+[Car Dataset](https://docs.google.com/spreadsheets/d/148gzCAxQno4wlIj_tzgUIyDTG8y4ifRr/edit?usp=sharing&ouid=105708385625412968894&rtpof=true&sd=true)
